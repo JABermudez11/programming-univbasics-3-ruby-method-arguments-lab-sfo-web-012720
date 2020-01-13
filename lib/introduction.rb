@@ -5,7 +5,7 @@
 
 #takes in the name arg
 def introduction(name)
-  p "Hi, my name is #{}."
+  p "Hi, my name is #{name}."
 end
 
 
